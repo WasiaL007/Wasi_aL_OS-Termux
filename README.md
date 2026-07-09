@@ -29,12 +29,15 @@
 
 ### Wasi_aL_OS
 
+A personal Python based terminal operating system project developed by **Wasi Al**.
+
+## 🚀 Quick Run
+
 ```bash
 git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git
 cd Wasi_aL_OS-v1.5
 python run.py
 ```
-````md
 
 ## 📦 Installation (Termux)
 
@@ -46,8 +49,10 @@ git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git
 cd Wasi_aL_OS-v1.5
 
 python run.py
+```
 
 ---
+
 
 ## 📊 GitHub Stats
 
