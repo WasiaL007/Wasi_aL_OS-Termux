@@ -12,21 +12,53 @@
 
 - 🔭 Currently developing **Wasi_aL_OS**
 - 🌱 Learning **Python, AI & Cyber Security**
-- 💻 Love building **Termux projects**
-- 🚀 Open Source Developer
+- 💻 Passionate about **Termux & Linux**
+- 🚀 Building useful open-source projects
 
 ---
 
 ## 🛠️ Languages & Tools
 
-- Python
-- Git
-- GitHub
-- Linux
-- Termux
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### Wasi_aL_OS
+
+```bash
+git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.3.git
+cd Wasi_aL_OS-v1.3
+python run.py
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WasiaL007&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasiaL007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasiaL007&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61567484469088)
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</p>
