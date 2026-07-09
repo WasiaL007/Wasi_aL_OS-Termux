@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="GIF_LINK" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Wasi Al</h1>
 
 <h3 align="center">Python Developer • AI Enthusiast • Termux Developer • Cyber Security Learner</h3>
