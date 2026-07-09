@@ -30,8 +30,8 @@
 ### Wasi_aL_OS
 
 ```bash
-git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.3.git
-cd Wasi_aL_OS-v1.3
+git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.5.git
+cd Wasi_aL_OS-v1.5
 python run.py
 ```
 
