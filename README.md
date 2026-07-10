@@ -16,7 +16,7 @@ A passionate developer and open-source enthusiast.
 - 💻 **Open Source Contributor**
 - 💡 **Problem Solver**
 
-## 🚀 Featured Project
+## 📂 Featured Project
 
 ### Wasi_aL_OS v1.6
 
