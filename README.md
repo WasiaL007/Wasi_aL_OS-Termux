@@ -26,21 +26,25 @@ A colorful terminal-based mini operating system simulation for Termux.
 
 ## 📦 Installation Guide
 
-Copy the command below and paste it into **Termux**.
+Copy the command below and paste it into Termux.
+
+Install WASI AL OS with one command:
 
 ```bash
-pkg update -y && pkg install git python -y && git clone https://github.com/WasiaL007/Wasi_aL_OS-v1.6.git && cd Wasi_aL_OS-v1.6 && clear && python run.py
+pkg update -y
+pkg install git -y
+git clone https://github.com/WasiaL007/WasiaL007.git
+cd WasiaL007
+bash install.sh
 ```
+l
 
----
-
-## ⚡ Quick Run
+## ⚡ Quik Run
 
 ```bash
-cd ~/Wasi_aL_OS-v1.6 && clear && python run.py
-```
 
----
+pkg update -y && pkg install git -y && git clone https://github.com/WasiaL007/WasiaL007.git && cd WasiaL007 && bash install.sh
+```
 
 ## 👨‍💻 Developer
 
