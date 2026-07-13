@@ -42,7 +42,7 @@ python run.py
 
 ### 📱 Install Android APK
 
-Download and open the Android APK installer.
+Download WASI AL OS APK and open the Android Package Installer automatically.
 
 ```bash
 pkg update -y
