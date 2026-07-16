@@ -13,7 +13,7 @@ RESET="\033[0m"
 
 APK_NAME="WASI_AL_OS_Termux_v1.5.apk"
 APK_PATH="$SCRIPT_DIR/$APK_NAME"
-APK_URL="https://github.com/WasiaL007/WasiaL007/releases/download/v1.5/WASI_AL_OS_Termux_v1.5.apk"
+APK_URL="https://github.com/WasiaL007/Wasi_aL_OS-Termux/releases/download/v1.6/WASI_AL_OS_Termux_v1.5.apk"
 BANNER_SOURCE="$SCRIPT_DIR/banner.sh"
 BANNER_TARGET="$HOME/.termux_banner.sh"
 BANNER_COMMAND='[ -f "$HOME/.termux_banner.sh" ] && bash "$HOME/.termux_banner.sh"'
